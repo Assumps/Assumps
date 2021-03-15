@@ -38,6 +38,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/>  
 </p>
 
-## GIT Stats
+## Git Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Assumps&show_icons=true" alt="Assumps"/>
 
