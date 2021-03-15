@@ -9,12 +9,13 @@
 <h1 align="center">Oi Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou João Vitor</h1>
 <p align="center">Atualmente tenho 21 anos, resido em Campinas-SP, atuo na área de tecnologia desde 2018</p>
 <p align="center">Atualmente curso o 4 ano de Ciência da computação na Unip, e faço cursos de certificação na Alura e Rocketseat</p>
-
+<p align="center">
 - 🔭 Atualmente trabalho na Fitcard
 - 📫 Como me encontrar: jrvitor5@gmail.com
 - 📚 aprendendo Python para Data science e WEB
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
 
 <h1 align="center">Backend Stack <img src="https://user-images.githubusercontent.com/49878665/111105353-89663280-8531-11eb-825e-c9da9dabfbac.png"</h1>
 <p align="center">
