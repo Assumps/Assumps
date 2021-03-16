@@ -40,6 +40,14 @@
   
 <h1 align="center">Git Stats <img src="https://user-images.githubusercontent.com/49878665/111178756-38cef380-858a-11eb-95e4-fd58001944fa.png"</h1>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Assumps&show_icons=true" alt="Assumps"/>
-</p>
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Assumps&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
