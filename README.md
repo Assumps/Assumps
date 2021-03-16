@@ -39,7 +39,7 @@
 </p>
   
 <h1 align="center">Git Stats <img src="https://user-images.githubusercontent.com/49878665/111178756-38cef380-858a-11eb-95e4-fd58001944fa.png"</h1>
-
+<br>
 <center>
     <table align="center">
       <tr>
