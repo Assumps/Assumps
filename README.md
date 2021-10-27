@@ -12,7 +12,7 @@
 
 <p align="center">- 🔭 Atualmente trabalho na Yaman Tecnologia</p>
 <p align="center">- 📫 Como me encontrar: jrvitor5@gmail.com</p>
-<p align="center">- 📚 aprendendo Typescript e C#</p>
+<p align="center">- 📚 aprendendo Typescript e Java Spring Boot</p>
 </ul>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
