@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Oi Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou João Vitor</h1>
-<p align="center">Atualmente tenho 21 anos, resido em Campinas-SP, atuo na área de tecnologia desde 2018</p>
+<p align="center">Atualmente tenho 22 anos, resido em Campinas-SP, atuo na área de tecnologia desde 2018</p>
 <p align="center">Atualmente curso o 4 ano de Ciência da computação na Unip, e faço cursos de certificação na Alura e Rocketseat</p>
 
 <p align="center">- 🔭 Atualmente trabalho na Yaman Tecnologia</p>
