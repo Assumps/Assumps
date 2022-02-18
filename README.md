@@ -8,11 +8,11 @@
 
 <h1 align="center">Oi Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou João Vitor</h1>
 <p align="center">Atualmente tenho 22 anos, resido em Campinas-SP, atuo na área de tecnologia desde 2018</p>
-<p align="center">Atualmente curso o 4 ano de Ciência da computação na Unip, e faço cursos de certificação na Alura e Rocketseat</p>
+<p align="center">Formado em Ciência da computação na Unip, e faço cursos de certificação na Alura e Rocketseat</p>
 
 <p align="center">- 🔭 Atualmente trabalho na Yaman Tecnologia</p>
 <p align="center">- 📫 Como me encontrar: jrvitor5@gmail.com</p>
-<p align="center">- 📚 aprendendo Typescript e Java Spring Boot</p>
+<p align="center">- 📚 aprendendo Typescript, Java Spring Boot, Microsservices e Ambiente Cloud (AWS) </p>
 </ul>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
