@@ -37,17 +37,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/>  
 </p>
-  
+ 
 <h1 align="center">Git Stats <img src="https://user-images.githubusercontent.com/49878665/111178756-38cef380-858a-11eb-95e4-fd58001944fa.png"</h1>
-<br>
-<center>
-    <table align="center">
-      <tr>
-          <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=swift" />
-          </td>
-          <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps" />               </td>
-      </tr>  
-    </table>
+<br><br>  
+<center>    
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=swift" />             
+              <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps" />               </td>
+   
 </center>
