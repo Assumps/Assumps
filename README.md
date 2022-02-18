@@ -47,7 +47,7 @@
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Assumps&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+              <img width="400px" align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />               </td>
       </tr>  
     </table>
 </center>
