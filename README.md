@@ -41,7 +41,7 @@
 <h1 align="center">Git Stats <img src="https://user-images.githubusercontent.com/49878665/111178756-38cef380-858a-11eb-95e4-fd58001944fa.png"</h1>
 <br><br>  
 <center>    
-              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=swift" />             
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Assumps&show_icons=true&theme=swift" />             
               <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps" />               </td>
    
 </center>
