@@ -5,14 +5,12 @@
 <a href="https://www.facebook.com/joaovitor.assumpcao.5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Assumps" height="20" width="20" /></a>
 <a href="https://www.instagram.com/joao_assumps/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Assumps" height="20" width="20" /></a>
 </p>
-
-<h1 align="center">Oi Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou João Vitor</h1>
 <p align="center">Atualmente tenho 22 anos, resido em Campinas-SP, atuo na área de tecnologia desde 2018</p>
-<p align="center">Formado em Ciência da computação na Unip, e faço cursos de certificação na Alura e Rocketseat</p>
+<p align="center">Formado em Ciência da computação na Unip.</p>
 
-<p align="center">- 🔭 Atualmente trabalho na Yaman Tecnologia</p>
+<p align="center">- 🔭 Atualmente estou livre no mercado</p>
 <p align="center">- 📫 Como me encontrar: jrvitor5@gmail.com</p>
-<p align="center">- 📚 aprendendo Typescript, Java Spring Boot, Microsservices e Ambiente Cloud (AWS) </p>
+<p align="center">- 📚 aprendendo Typescript, .NET, C#, Microsservices e Ambiente Cloud (AWS & Azure) </p>
 </ul>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
