@@ -36,9 +36,3 @@ Atuo na área de tecnologia desde 2018, formado em Ciência da Computação - UN
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="20" height="20"/>  
 </p>
  
-<h1 align="left">Git Stats <img src="https://user-images.githubusercontent.com/49878665/111178756-38cef380-858a-11eb-95e4-fd58001944fa.png"</h1>
-<br><br>  
-<center>                
-              <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assumps" />               </td>
-   
-</center>
