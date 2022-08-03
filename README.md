@@ -8,7 +8,7 @@
 Me chamo João Vitor, tenho 22 anos e resido na cidade de Campinas/SP.<br>
 Atuo na área de tecnologia desde 2018, formado em Ciência da Computação - UNIP.
 
-- 🔭 Atualmente estou livre no mercado<br>
+- 🔭 Atualmente trabalho na Linx<br>
 - 📫 Como me encontrar: jrvitor5@gmail.com<br>
 - 📚 aprendendo Typescript, .NET, C#, Microsservices e Ambiente Cloud (AWS & Azure) <br>
 </ul>
