@@ -18,6 +18,8 @@
 #### Certificações:
 ##### [AZ-900](https://learn.microsoft.com/api/credentials/share/pt-br/96476264/A1BA44C8AD8A47A5?sharingId=4F23D3A6B7766196)
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Assumps" alt="Assumps" /> </p>
 
 <h1 align="left">Backend Stack <img src="https://user-images.githubusercontent.com/49878665/111105353-89663280-8531-11eb-825e-c9da9dabfbac.png"</h1>
