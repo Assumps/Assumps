@@ -9,7 +9,7 @@
 ##### Atuo na área de tecnologia desde 2018, formado em Ciência da Computação - UNIP.
 <br>
 - 🔭 Atualmente trabalho na XP Inc.<br>
-- 📫 Como me encontrar: jrvitor5@gmail.com<br>
+- 📫 Como me encontrar: assumps13@outlook.com<br>
 - 📚 Especializando em .Net e todo o Ambiente Cloud (Azure) <br>
 </ul>
 
