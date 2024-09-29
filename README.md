@@ -17,7 +17,4 @@
 
 #### Certificações:
 ##### [AZ-900](https://learn.microsoft.com/api/credentials/share/pt-br/96476264/A1BA44C8AD8A47A5?sharingId=4F23D3A6B7766196)
-
----
-
  
